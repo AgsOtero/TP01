@@ -54,7 +54,7 @@ namespace Ejercicio1
             {
                 Console.WriteLine("OTROS");
             }
-
-        }
+            Console.WriteLine("Prueba");
+        } 
     }
 }
